@@ -61,4 +61,4 @@
 ---
 ---
 
-### Réalisé en coopération avec **[Valentin Deal-Collet](https://github.com/Clawyer)**# form-exercice-front
+### Réalisé en coopération avec **[Valentin Deal-Collet](https://github.com/Clawyer)**
